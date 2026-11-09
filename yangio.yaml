@@ -1,0 +1,18 @@
+slug: management
+name: Management
+tagline: Repo quản lý đang để trống
+url: https://github.com/thangvt-food/Management
+status: idea
+visibility: private
+description: Repo chỉ có README, chưa có mã nguồn; đang giữ chỗ cho công cụ quản lý.
+tags:
+  - quản-lý
+category: unknown
+tech: []
+hosting: unknown
+updated: '2025-09-17'
+icon: 📦
+auth: none
+links:
+  repo: https://github.com/thangvt-food/Management
+notes: Repo public nhưng trống.
